@@ -1,0 +1,959 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"e",
+				"expr_non_unary"
+			],
+			[
+				"expr",
+				"expr_paren"
+			],
+			[
+				"ex",
+				"expr_paren"
+			],
+			[
+				"L",
+				"LSB"
+			],
+			[
+				"tp2",
+				"tp2string"
+			],
+			[
+				"TermC",
+				"TermCons"
+			],
+			[
+				"un",
+				"unambiguous_type"
+			],
+			[
+				"unary",
+				"unary_type"
+			],
+			[
+				"ctx",
+				"context2string"
+			],
+			[
+				"V",
+				"VWildcard"
+			],
+			[
+				"PT",
+				"PTIndex"
+			],
+			[
+				"tm",
+				"tm_info"
+			],
+			[
+				"expr_",
+				"expr_unary"
+			],
+			[
+				"Tm",
+				"TmVar"
+			],
+			[
+				"Unit",
+				"UnitLit"
+			],
+			[
+				"APP",
+				"APP_BASE"
+			],
+			[
+				"exp",
+				"expr_unary"
+			],
+			[
+				"No",
+				"NoInfo"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"draw",
+				"drawGrid"
+			],
+			[
+				"N",
+				"NROWS"
+			],
+			[
+				"pret",
+				"pretty_print"
+			],
+			[
+				"per",
+				"pretty_print"
+			],
+			[
+				"p",
+				"printSteps"
+			],
+			[
+				"print",
+				"printSteps"
+			],
+			[
+				"pre",
+				"pretty_print"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"output",
+				"outputUpdate"
+			],
+			[
+				"char",
+				"character"
+			],
+			[
+				"SPARK_DE",
+				"SPARK_DAEMON_JAVA_OPTS"
+			],
+			[
+				"colour",
+				"colourHeight"
+			],
+			[
+				"sca",
+				"scale_number"
+			],
+			[
+				"diag",
+				"diagonaltype"
+			],
+			[
+				"kola",
+				"kola_keyword"
+			],
+			[
+				"event",
+				"event_keyword"
+			],
+			[
+				"handl",
+				"handler_keyword"
+			],
+			[
+				"han",
+				"handle_keyword"
+			],
+			[
+				"component",
+				"componentdef"
+			],
+			[
+				"provi",
+				"provides_keyword"
+			],
+			[
+				"connect",
+				"connect_keyword"
+			],
+			[
+				"unsub",
+				"unsubscribe_keyword"
+			],
+			[
+				"block",
+				"block_statement"
+			],
+			[
+				"wild",
+				"wildcard_bounds"
+			],
+			[
+				"trig",
+				"trigger_statement"
+			],
+			[
+				"tri",
+				"trigger_statement"
+			],
+			[
+				"unsu",
+				"unsubscribe_statement"
+			],
+			[
+				"disc",
+				"disconnect_statement"
+			],
+			[
+				"port",
+				"port_id"
+			],
+			[
+				"subscr",
+				"subscribe_statement"
+			],
+			[
+				"required",
+				"required_id"
+			],
+			[
+				"connec",
+				"connect_statement"
+			],
+			[
+				"comp",
+				"component_body"
+			],
+			[
+				"ass",
+				"assignment_expression"
+			],
+			[
+				"assignme",
+				"assignment"
+			],
+			[
+				"una",
+				"unary_expression_no_name"
+			],
+			[
+				"mu",
+				"multiplicative_expression_no_name"
+			],
+			[
+				"add",
+				"additive_expression"
+			],
+			[
+				"rel",
+				"relational_expression_no_name_no_instanceof"
+			],
+			[
+				"shi",
+				"shift_expression_no_name"
+			],
+			[
+				"eq",
+				"equality_expression_no_name"
+			],
+			[
+				"and",
+				"and_expression_no_name"
+			],
+			[
+				"exc",
+				"exclusive_or_expression_no_name"
+			],
+			[
+				"inc",
+				"inclusive_or_expression_no_name"
+			],
+			[
+				"cond",
+				"conditional_and_expression_no_name"
+			],
+			[
+				"ref",
+				"reference_type"
+			],
+			[
+				"prim",
+				"primitive_type"
+			],
+			[
+				"cast",
+				"cast_expression"
+			],
+			[
+				"postfi",
+				"postfix_expression_no_name"
+			],
+			[
+				"pre_de",
+				"pre_decrement_expression"
+			],
+			[
+				"pos",
+				"post_decrement_expression"
+			],
+			[
+				"array",
+				"array_creation_expression"
+			],
+			[
+				"arr",
+				"array_creation_expression"
+			],
+			[
+				"primary_",
+				"primary_no_new_array"
+			],
+			[
+				"method",
+				"method_invocation"
+			],
+			[
+				"none",
+				"non_wild_type_arguments"
+			],
+			[
+				"argu",
+				"argument_list"
+			],
+			[
+				"field",
+				"field_access"
+			],
+			[
+				"dim",
+				"dim_expr"
+			],
+			[
+				"class_in",
+				"class_initializer"
+			],
+			[
+				"primi",
+				"primitive_type"
+			],
+			[
+				"pri",
+				"primitive"
+			],
+			[
+				"type",
+				"type_arguments"
+			],
+			[
+				"typ",
+				"type_arguments"
+			],
+			[
+				"argumen",
+				"arguments"
+			],
+			[
+				"type_arguments",
+				"type_arguments_or_diamond"
+			],
+			[
+				"type_de",
+				"type_decl_specifier"
+			],
+			[
+				"meth",
+				"method_invocation"
+			],
+			[
+				"fiel",
+				"field_access"
+			],
+			[
+				"clas",
+				"class_instance_creation_expression"
+			],
+			[
+				"expres",
+				"expression_no_name"
+			],
+			[
+				"array_creati",
+				"array_creation_expression"
+			],
+			[
+				"var",
+				"variable_declarator_id"
+			],
+			[
+				"mo",
+				"modifier"
+			],
+			[
+				"resou",
+				"resource"
+			],
+			[
+				"catch",
+				"catch_clause"
+			],
+			[
+				"res",
+				"resource_specification"
+			],
+			[
+				"re",
+				"resource_specification"
+			],
+			[
+				"try",
+				"try_with_resources_statement"
+			],
+			[
+				"cl",
+				"class_type"
+			],
+			[
+				"vari",
+				"variable_declarator_id"
+			],
+			[
+				"try_",
+				"try_with_resources_statement"
+			],
+			[
+				"tr",
+				"try_statement"
+			],
+			[
+				"retu",
+				"return_keyword"
+			],
+			[
+				"contin",
+				"continue_statement"
+			],
+			[
+				"enh",
+				"enhanced_for_statement"
+			],
+			[
+				"st",
+				"statement_expression_list"
+			],
+			[
+				"for",
+				"for_update"
+			],
+			[
+				"lo",
+				"local_variable_declaration"
+			],
+			[
+				"stat",
+				"statement_expression_list"
+			],
+			[
+				"basic",
+				"basic_for_statement"
+			],
+			[
+				"do_",
+				"do_statement"
+			],
+			[
+				"statement_no",
+				"while_statement_no_short_if"
+			],
+			[
+				"whi",
+				"while_statement"
+			],
+			[
+				"wh",
+				"while_statement"
+			],
+			[
+				"def",
+				"default_keyword"
+			],
+			[
+				"cons",
+				"constant_expression"
+			],
+			[
+				"sw",
+				"switch_label"
+			],
+			[
+				"blo",
+				"block_statement"
+			],
+			[
+				"bl",
+				"block_statements"
+			],
+			[
+				"swi",
+				"switch_block_statement_group"
+			],
+			[
+				"switch",
+				"switch_block"
+			],
+			[
+				"if",
+				"if_then_else_statement_no_short_if"
+			],
+			[
+				"if_then",
+				"if_then_else_statement"
+			],
+			[
+				"expression_n",
+				"expression_no_name"
+			],
+			[
+				"post_de",
+				"post_decrement_expression"
+			],
+			[
+				"post_in",
+				"post_increment_expression"
+			],
+			[
+				"assignment_e",
+				"assignment_expression_no_name"
+			],
+			[
+				"expre",
+				"expression_no_name"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"jd",
+				"Pretty JSON: Format and Sort JSON"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"pre",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"pret",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"prett",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"Insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/lkroll/Documents/Programming/example/jekyll/testsite/_config.yml",
+		"/Users/lkroll/Documents/Programming/example/jekyll/testsite/_posts/2016-10-11-welcome-to-jekyll.markdown",
+		"/Users/lkroll/Documents/Programming/example/jekyll/testsite/index.md",
+		"/Users/lkroll/Documents/Uni/Types, Semantics, and Programming Languages/ik3620/module2/ex3/src/ustring.ml",
+		"/Users/lkroll/Documents/Uni/Types, Semantics, and Programming Languages/ik3620/module2/ex3/src/typechecker.ml",
+		"/Users/lkroll/Documents/Uni/Types, Semantics, and Programming Languages/ik3620/module2/ex3/src/interpreter.ml",
+		"/Users/lkroll/Documents/Uni/Types, Semantics, and Programming Languages/ik3620/module2/ex3/src/lambda.ml",
+		"/Users/lkroll/Documents/Uni/Types, Semantics, and Programming Languages/ik3620/module2/ex3/src/dbst.ml",
+		"/Users/lkroll/Documents/Uni/Types, Semantics, and Programming Languages/ik3620/module2/ex3/src/ast.ml",
+		"/Users/lkroll/Documents/Uni/Types, Semantics, and Programming Languages/ik3620/module2/ex3/src/parser.mly",
+		"/Users/lkroll/Documents/Uni/Types, Semantics, and Programming Languages/ik3620/module2/ex3/src/lexer.mll",
+		"/Users/lkroll/Library/Application Support/Sublime Text 2/Packages/User/Lambdakappa.YAML-tmLanguage",
+		"/Users/lkroll/Documents/Uni/Types, Semantics, and Programming Languages/ik3620/module2/ex3/test.lam",
+		"/Users/lkroll/Documents/Uni/Types, Semantics, and Programming Languages/ik3620/module2/ex3/src/ustring.mli",
+		"/Users/lkroll/Documents/Uni/Types, Semantics, and Programming Languages/ik3620/module2/ex3/src/utils.ml",
+		"/Users/lkroll/Documents/Uni/Types, Semantics, and Programming Languages/ik3620/module2/ex3/src/utils.mli",
+		"/Users/lkroll/Documents/Uni/Types, Semantics, and Programming Languages/ik3620/module2/ex3/docs/examples/example1.lam",
+		"/Users/lkroll/Documents/Uni/Types, Semantics, and Programming Languages/ik3620/module2/ex3/docs/examples/example3.lam",
+		"/Users/lkroll/Downloads/Adventure_Time.tmtheme",
+		"/Users/lkroll/Library/Application Support/Sublime Text 2/Packages/User/Kola.YAML-tmLanguage",
+		"/Users/lkroll/Library/Application Support/Sublime Text 2/Packages/User/Lambdakappa.tmLanguage",
+		"/Users/lkroll/Library/Application Support/Sublime Text 2/Packages/User/Kola.tmLanguage",
+		"/Users/lkroll/Documents/Uni/Types, Semantics, and Programming Languages/ik3620/module2/ex3/_build/src/parser.output",
+		"/Users/lkroll/Downloads/report.txt",
+		"/Users/lkroll/Documents/Uni/Types, Semantics, and Programming Languages/ik3620/module2/ex3/docs/examples/example2.lam",
+		"/Users/lkroll/Documents/Uni/Types, Semantics, and Programming Languages/ik3620/module2/ex3/_oasis",
+		"/Users/lkroll/Documents/Uni/Types, Semantics, and Programming Languages/ik3620/module2/ex3/src/msg.ml",
+		"/Users/lkroll/Documents/Programming/Kola/kola/src/main/sablecc/kola-0.1.7.sablecc",
+		"/Users/lkroll/Documents/Uni/Types, Semantics, and Programming Languages/ik3620/module2/ex2/parser.mly",
+		"/Users/lkroll/Library/Application Support/Sublime Text 2/Packages/User/Merlin.sublime-settings",
+		"/Users/lkroll/Documents/Uni/Types, Semantics, and Programming Languages/ik3620/module2/ex3/src/info.ml",
+		"/Users/lkroll/Documents/Uni/Types, Semantics, and Programming Languages/ik3620/module2/ex3/_build/src/parser.ml",
+		"/Users/lkroll/Documents/Uni/Types, Semantics, and Programming Languages/ik3620/module2/ex3/src/parser.ml",
+		"/Users/lkroll/Documents/Uni/Types, Semantics, and Programming Languages/ik3620/module2/ex3/ustring.mli",
+		"/Users/lkroll/Documents/Uni/Types, Semantics, and Programming Languages/ik3620/module2/ex3/ast.ml",
+		"/Users/lkroll/Documents/Uni/Types, Semantics, and Programming Languages/ik3620/module2/ex3/dbst.ml",
+		"/Users/lkroll/Documents/Uni/Types, Semantics, and Programming Languages/ik3620/module2/ex3/lambda.ml",
+		"/Users/lkroll/Documents/Uni/Types, Semantics, and Programming Languages/ik3620/module2/ex3/ustring.ml",
+		"/Users/lkroll/Documents/Uni/Types, Semantics, and Programming Languages/ik3620/module2/ex3/parser.mly",
+		"/Users/lkroll/Documents/Uni/Types, Semantics, and Programming Languages/ik3620/module2/ex3/lexer.mll",
+		"/Users/lkroll/Documents/Uni/Types, Semantics, and Programming Languages/ik3620/module2/ex3/backup._oasis",
+		"/Users/lkroll/Library/Application Support/Sublime Text 2/Packages/Merlin/Merlin.sublime-settings",
+		"/Users/lkroll/Documents/Uni/Types, Semantics, and Programming Languages/ik3620/module2/ex3/parser.output",
+		"/Users/lkroll/Documents/Uni/Types, Semantics, and Programming Languages/ik3620/module2/ex3/utils.mli",
+		"/Users/lkroll/Dropbox/Paxos Quiz.txt",
+		"/Users/lkroll/Dropbox/Paris-Lars/edx/Exercise- Broadcast-2of3.json",
+		"/Users/lkroll/Dropbox/RPG/D&D 5E/ToD/Episode4Part3TheRoadSummary.md",
+		"/Users/lkroll/Dropbox/KTHx/Resources/Algorithms/defs.tex",
+		"/Users/lkroll/Documents/Programming/Kompics/kompics/core/src/main/java/se/sics/kompics/Kompics.java",
+		"/Users/lkroll/Dropbox/RPG/D&D 5E/ToD/Episode4Part3TheRoadDetails.md",
+		"/Users/lkroll/Dropbox/RPG/D&D 5E/ToD/EncounterCalc.md",
+		"/Users/lkroll/Dropbox/RPG/D&D 5E/ToD/RoT - Other Encounters.md",
+		"/Users/lkroll/Documents/Programming/Kompics/kompics/core/src/main/java/se/sics/kompics/ComponentCore.java",
+		"/Users/lkroll/Documents/Programming/Kompics/kompics/core/src/main/java/se/sics/kompics/JavaComponent.java",
+		"/Users/lkroll/Documents/Programming/Kompics/kompics/core/src/main/java/se/sics/kompics/SimpleChannel.java",
+		"/Users/lkroll/Documents/Programming/Kompics/kompics/core/src/main/java/se/sics/kompics/BiDirectionalChannel.java",
+		"/Users/lkroll/Documents/Programming/Kompics/kompics/core/src/main/java/se/sics/kompics/Channel.java",
+		"/Users/lkroll/Documents/Programming/Kompics/kompics/core/src/main/java/se/sics/kompics/ChannelCore.java",
+		"/Users/lkroll/Documents/Programming/Kompics/kompics/core/src/main/java/se/sics/kompics/ComponentDefinition.java",
+		"/Users/lkroll/Documents/Programming/Kompics/kompics/core/src/main/java/se/sics/kompics/JavaPort.java",
+		"/Users/lkroll/Documents/Programming/Kompics/kompics/core/src/main/java/se/sics/kompics/Killed.java",
+		"/Users/lkroll/Documents/Programming/Kompics/kompics/core/src/main/java/se/sics/kompics/ChannelSelectorSet.java",
+		"/Users/lkroll/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/E086A9E7-3C2A-4141-8803-70A59D19E554/encrypted",
+		"/Users/lkroll/Downloads/untitled.html",
+		"/Users/lkroll/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/84F1C0A5-965B-41E1-BE8D-C24BB2B5810B/Mail Attachment",
+		"/Users/lkroll/Downloads/test.tex",
+		"/Users/lkroll/Downloads/course/problem/Numerical_response.xml",
+		"/Users/lkroll/Dropbox/CLIPBOARD.txt",
+		"/Users/lkroll/Dropbox/KTHx/Resources/Labs/Algo_pseudo_code/defs.tex",
+		"/Users/lkroll/Documents/Programming/KTHx/id2203x/client/build.sbt",
+		"/Users/lkroll/Documents/Programming/KTHx/id2203x/client/src/main/scala/se/kth/edx/id2203/tutorial/gameoflife/GameOfLife.scala",
+		"/Users/lkroll/Documents/Programming/KTHx/id2203x/templates/src/main/scala/se/kth/edx/id2203/templates/SharedMemoryTemplate.scala",
+		"/Users/lkroll/Documents/Programming/KTHx/id2203x/client/src/main/resources/logback.xml",
+		"/Users/lkroll/Dropbox/Paris-Lars/edx/Homework1-Eventually Perfect Failure Detector.json",
+		"/Volumes/edXVM/usr/zeppelin/zeppelin-web/src/app/home/home.html",
+		"/Users/lkroll/Documents/Programming/KTHx/id2203x/html/index.html",
+		"/Users/lkroll/Documents/Programming/KTHx/id2203x/Grader/src/test/resources/testhw.json",
+		"/Users/lkroll/Downloads/Example - Game of Life.json",
+		"/Users/lkroll/Documents/Programming/KTHx/id2203x/Grader/src/test/resources/logback.xml",
+		"/Users/lkroll/Documents/Programming/KTHx/GameOfLife/src/main/scala/se/kthx/id2203/Main.scala",
+		"/Users/lkroll/Downloads/game_of_life/index.html",
+		"/Users/lkroll/Documents/Programming/KTHx/id2203x/Grader/grader.sbt",
+		"/Users/lkroll/Documents/Programming/KTHx/id2203x/client/src/main/resources/game.js",
+		"/Users/lkroll/Documents/Programming/KTHx/deploy/start.sh",
+		"/Users/lkroll/Documents/Programming/KTHx/deploy/application.conf",
+		"/Users/lkroll/Documents/Programming/KTHx/deploy/config.xml",
+		"/Users/lkroll/Library/Application Support/Sublime Text 2/Packages/User/SublimeManpage.sublime-settings",
+		"/Users/lkroll/Library/Application Support/Sublime Text 2/Packages/SublimeManpage/SublimeManpage.sublime-settings",
+		"/Users/lkroll/.ssh/id_rsa",
+		"/Users/lkroll/.ssh/id_rsa.pub",
+		"/Users/lkroll/.ssh/id_dsa",
+		"/Users/lkroll/.ssh/id_dsa.pub",
+		"/Users/lkroll/Dropbox/Paris-Lars/edx/edx.pem",
+		"/Users/lkroll/Documents/Programming/KTHx/id2203x/Grader/src/main/resources/reference.conf",
+		"/Users/lkroll/Dropbox/Paris-Lars/edx/Homework2-Broadcast Abstractions.json",
+		"/Users/lkroll/Documents/Programming/Kompics/kompics-scala/simulator/src/main/scala/se/sics/kompics/sl/simulator/package.scala",
+		"/Users/lkroll/Documents/Programming/Kompics/kompics-scala/simulator/src/main/scala/se/sics/kompics/sl/simulator/Distributions.scala",
+		"/Users/lkroll/Documents/Programming/D&D/SpeedCalc/build.sbt",
+		"/Users/lkroll/Dropbox/Paris-Lars/edx/failed-Homework3-SharedMemory.json",
+		"/Users/lkroll/Documents/Programming/KTHx/id2203x/client/project/plugins.sbt",
+		"/Users/lkroll/Documents/Programming/KTHx/id2203x/Grader/project/plugins.sbt",
+		"/Users/lkroll/Documents/Programming/KTHx/id2203x/Grader/assembly.sbt",
+		"/Users/lkroll/Documents/Programming/caracaldb/caracaldb/experiments/driver/assembly.sbt",
+		"/Users/lkroll/Documents/Programming/caracaldb/caracaldb/experiments/driver/project/assembly.sbt",
+		"/Users/lkroll/Documents/Programming/D&D/SpeedCalc/project/build.properties",
+		"/Users/lkroll/Documents/Programming/D&D/SpeedCalc/project/build.sbt",
+		"/Users/lkroll/Documents/Programming/caracaldb/caracaldb/rest-api/project/assembly.sbt",
+		"/Users/lkroll/Documents/Programming/KTHx/id2203x/client/src/test/resources/application.conf",
+		"/Users/lkroll/Documents/Programming/KTHx/xqueue-watcher/xqueue_watcher/client.py",
+		"/Users/lkroll/Documents/Programming/KTHx/id2203x/Grader/src/test/resources/application.conf",
+		"/Users/lkroll/Documents/Programming/KTHx/id2203x/Grader/src/test/resources/testhwfail.json",
+		"/Users/lkroll/Documents/Programming/KTHx/application.conf",
+		"/Users/lkroll/Documents/Programming/Kompics/kompics/basic/component-netty-network/pom.xml",
+		"/Users/lkroll/Library/Application Support/Sublime Text 2/Packages/User/Pretty JSON.sublime-settings",
+		"/Users/lkroll/Library/Application Support/Sublime Text 2/Packages/Pretty JSON/Pretty JSON.sublime-settings",
+		"/Users/lkroll/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/lkroll/Documents/Programming/caracaldb/remote/caracal_start.sh",
+		"/Users/lkroll/Documents/Programming/caracaldb/scripts/localdeploy/caracal.sh",
+		"/Users/lkroll/Documents/Uni/Types, Semantics, and Programming Languages/ik3620/module1/ex7/test.lam",
+		"/Users/lkroll/Documents/Uni/Types, Semantics, and Programming Languages/ik3620/module1/ex7/6.5.lam",
+		"/Users/lkroll/Documents/Uni/Types, Semantics, and Programming Languages/ik3620/module1/ex6/6.5.lam",
+		"/Users/lkroll/Documents/Uni/Types, Semantics, and Programming Languages/ik3620/module1/ex6/lambda.",
+		"/Users/lkroll/Documents/Uni/Types, Semantics, and Programming Languages/ik3620/module1/ex6/lambda.ml",
+		"/Users/lkroll/Documents/Uni/Types, Semantics, and Programming Languages/ik3620/module1/ex6/lexer.mll",
+		"/Users/lkroll/Dropbox/RPG/D&D 5E/ToD/RoT - Cult Attacks.md",
+		"/Users/lkroll/Dropbox/RPG/D&D 5E/ToD/RoT - Faction Notes.md",
+		"/Users/lkroll/Documents/Uni/Types, Semantics, and Programming Languages/ik3620/module1/ex7/lambda.ml",
+		"/Users/lkroll/Documents/Uni/Types, Semantics, and Programming Languages/ik3620/module1/ex7/dbst.ml"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"expr_paren",
+			"AS",
+			"argument_list {",
+			"argument_list",
+			"method_invocation",
+			"invocation",
+			"parse_error",
+			"uprint",
+			"to_utf",
+			"let to_utf8 ",
+			"to_utf8 ",
+			"to_utf8",
+			"uprint",
+			"removeChannel",
+			"disconnect",
+			"cleanChannels",
+			"cleanPorts",
+			"doDestroy",
+			"Kill",
+			"result",
+			"shadow dragon",
+			"shadow",
+			"literal",
+			"long",
+			"ling",
+			"null",
+			"public",
+			"cyclomatic",
+			"header",
+			"head",
+			"desc",
+			".box",
+			"px",
+			"head",
+			"white",
+			"getDataFromServlet",
+			"getDataset",
+			"servletParameters",
+			"getDownloadUrlFromServer",
+			"serverBase",
+			"getDownloadUrlFromServer",
+			"encUsername",
+			"encrypt",
+			"ecrypt",
+			"getDataset()",
+			"encryptLoginInfo",
+			"DES",
+			"getNegative",
+			"mods",
+			"snakes",
+			"malis",
+			"Put",
+			"Ping",
+			"failure",
+			"crash",
+			";",
+			",",
+			"setInactive",
+			"execute",
+			" :ref:",
+			":ref:",
+			"ref",
+			"pattern",
+			"connect",
+			"round",
+			"disamb",
+			"diamb",
+			"putting",
+			"finally",
+			"msgId: 0",
+			"dropping",
+			"delayed",
+			"dalyed",
+			"msgId: 1)",
+			"msgId: 1",
+			"msgId: 0",
+			"*****",
+			"default",
+			"settings",
+			"180",
+			"Message",
+			"Cleaning",
+			"NotifyAck",
+			"Ack",
+			"AckReq",
+			"NotifyAck",
+			"AckNotify",
+			"unexpected",
+			"NotifyAck",
+			"AckRequest",
+			"delivery notify",
+			"notify",
+			"CheckChannelActive",
+			"Iron Ingots",
+			"appJVM   ",
+			"appJVM       ",
+			"protocolSendBufferSize",
+			"Serializers",
+			"UDP",
+			"Dragon\",",
+			"Dragon\";",
+			"Dragon",
+			"rst",
+			"prolog",
+			"virtual",
+			"todo",
+			");\n",
+			"todo",
+			"highlight",
+			"html",
+			"kola_keyword =",
+			"kola_keyword",
+			"doTrigger",
+			"answer",
+			"tc1",
+			"{-> expression_no_name} =",
+			"expression_no_name {",
+			"expression_no_name =",
+			"expression_no_name",
+			"kola_expression",
+			"kolaexpression",
+			"\"import array\"",
+			"import array",
+			"import arrya",
+			"import",
+			"importing",
+			"import",
+			"wid"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			",",
+			".",
+			"",
+			"('CARACALAPI_",
+			"['CARACALAPI",
+			"['CARACALAPI_",
+			"caracalapi_"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.markdown":
+	{
+		"height": 0.0
+	},
+	"output.package_dev":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 339.0,
+	"status_bar_visible": true
+}
