@@ -163,9 +163,14 @@
     margin-bottom: 0;
     @include gallery(4 of 12);
 
-    .feature__item-teaser {
+    .archive__item-teaser {
       max-height: 200px;
+      max-width: 100%;
       overflow: hidden;
+    }
+    .archive__item-teaser img {
+      height: auto;
+      width: auto;
     }
   }
 
