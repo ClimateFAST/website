@@ -207,6 +207,38 @@ compress_html:
   ignore:
     envs: development
 
+prose:
+  rooturl: 
+  ignore: ['_config.yml','Gemfile','LICENSE','pakage.json','CHANGELOG.md','.gitignore']
+  siteurl:
+  media: "images"
+  metadata:
+    _posts:
+      - name: "type"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "layout"
+        field:
+          element: "select"
+          options:
+            - name: "Single"
+              value: "single"
+            - name: "Splash"
+              value: "splash"
+      - name: "title"
+        field:
+          element: "text"
+          label: "title"
+      - name: "author"
+        field:
+          element: "select"
+          options:
+            - name: "Lars"
+              value: "lkroll"
+            - name: "Jim"
+              value: "jdowling"
+
 defaults:
   # _posts
   - scope:
