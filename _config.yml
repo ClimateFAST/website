@@ -240,6 +240,11 @@ prose:
             - name: "Jim"
               value: "jdowling"
 
+# deployment
+username: "ClimateFAST"
+repo: "website"
+branch: "master"
+
 defaults:
   # _posts
   - scope:
