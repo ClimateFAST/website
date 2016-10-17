@@ -245,6 +245,8 @@ username: "ClimateFAST"
 repo: "website"
 branch: "master"
 
+destination: ../gh-pages
+
 defaults:
   # _posts
   - scope:
