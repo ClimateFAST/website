@@ -3,8 +3,6 @@ _site
 *.sublime-project
 *.sublime-workspace
 
-Gemfile.lock
-
 .DS_Store
 
 vendor
