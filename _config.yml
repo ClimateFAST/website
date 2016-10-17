@@ -211,7 +211,7 @@ compress_html:
 prose:
   rooturl: 
   ignore: ['_config.yml','Gemfile','LICENSE','pakage.json','CHANGELOG.md','.gitignore']
-  siteurl:
+  siteurl: "http://fastclimate.info"
   media: "images"
   metadata:
     _posts:

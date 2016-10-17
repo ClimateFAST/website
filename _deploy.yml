@@ -1,5 +1,5 @@
-url: "https://climatefast.github.io"
-baseurl: "/website"
+url: "http://fastclimate.info"
+baseurl: 
 
 # deployment
 username: "ClimateFAST"
