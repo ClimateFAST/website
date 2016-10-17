@@ -1,4 +1,5 @@
 source "https://rubygems.org"
+source "http://production.cf.rubygems.org/"
 
 # Hello! This is where you manage which Jekyll version is used to run.
 # When you want to use a different version, change it below, save the
@@ -24,3 +25,4 @@ group :jekyll_plugins do
 end
 
 gem "travis"
+gem "rake", "~> 10.1.1"
