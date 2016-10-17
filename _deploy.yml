@@ -1,1 +1,9 @@
-url                      : "https://climatefast.github.io/website/"
+url                      : "https://climatefast.github.io"
+baseurl					 : "website"
+
+# deployment
+username: "ClimateFAST"
+repo: "website"
+branch: "master"
+
+destination: /home/travis/build/ClimateFAST/deploy

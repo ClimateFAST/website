@@ -240,13 +240,6 @@ prose:
             - name: "Jim"
               value: "jdowling"
 
-# deployment
-username: "ClimateFAST"
-repo: "website"
-branch: "master"
-
-destination: ../gh-pages
-
 defaults:
   # _posts
   - scope:
