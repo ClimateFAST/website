@@ -210,8 +210,8 @@ namespace :site do
     sh "git checkout #{SOURCE_BRANCH}"
     Dir.chdir(CONFIG["destination"]) { sh "git checkout #{DESTINATION_BRANCH}" }
 
-    # Generate the site
-    sh "JEKYLL_ENV=production bundle exec jekyll build --config _config.yml,_deploy.yml"
+    # Generate the site (in dev mode because production is broken)
+    sh "JEKYLL_ENV=development JEKYLL_GITHUB_TOKEN=#{ENV['GH_TOKEN']} bundle exec jekyll build --config _config.yml,_deploy.yml"
 
     # Commit and push to github
     sha = `git log`.match(/[a-z0-9]{40}/)[0]
